@@ -1,0 +1,55 @@
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: monospace;
+    font-style: italic;
+    color:chocolate;
+}
+
+h2{
+    font-family: monospace;
+    font-style:italic;
+    text-decoration: underline;
+    color:chocolate; 
+}
+
+body {
+    background-color: papayawhip;
+    text-align: center;
+    border: 1rem solid brown;
+}
+
+img{
+    border: 10px solid brown;
+}
+
+.container {
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+hr {
+    height: 10px;
+    background-color: burlywood;
+    border: none;
+    border-style: dotted;
+}
+
+ul{
+    list-style: none;
+}
+
+table{
+    border: 5px solid burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    border: 5px solid burlywood;
+    padding: 1rem;
+}
