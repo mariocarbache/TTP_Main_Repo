@@ -1,0 +1,79 @@
+/*p {
+    color: cadetblue;
+}*/
+
+/* body {
+    font-size: 34px;
+}
+
+h1, h2, h3{
+    color:greenyellow;
+} */
+
+/* h1 {
+    font-style: italic;
+    font-size: 70px;
+} */
+
+/* .header1{
+    color: burlywood;
+}
+
+.header2 {
+    color: cadetblue;
+} */
+
+/* #recipe {
+    text-transform: uppercase;
+}
+
+#desserts {
+    text-align: center;
+} */
+
+/* *{
+    text-align: center;
+    font-family: monospace;
+}
+
+li{
+    color: aquamarine;
+}
+
+.languages{
+    transform: uppercase;
+} */
+
+/* body{
+    font-size: 1rem;
+    font-family: monospace;
+    line-height: 1.8;
+    background-color: papayawhip;
+    color:brown;
+}
+
+p{
+    color:yellowgreen;
+    text-align: center;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+} */
+
+/* rem - adjustable to browser changes*/
+
+* { /*to remove default browsers settings in margins*/
+    margin: 0; 
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 2px solid burlywood;
+    border-right: 4px dotted rebeccapurple;
+    border-bottom: 3px solid blue;
+    font-size: 1.5rem;
+    margin: 30px;
+}
