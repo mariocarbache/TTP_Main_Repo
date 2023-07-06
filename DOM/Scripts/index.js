@@ -29,3 +29,13 @@ function toggleClass(){
 toggleClass();
 
 const ele = document.querySelector("div"); //finds first element div
+
+const button = document.getElementsByClassName("count");
+
+
+
+button[0].addEventListener('click', () =>{
+    button[0].style.backgroundColor="blue";
+})
+
+
